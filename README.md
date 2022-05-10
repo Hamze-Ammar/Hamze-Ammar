@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Full Stack Web Development at SE-Factory!
 <!--
 **Hamze-A/Hamze-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
