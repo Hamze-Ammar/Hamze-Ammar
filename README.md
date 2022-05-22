@@ -1,10 +1,10 @@
 ### Hi there, I'm Hamze 👋
 
 
-- 🌱 I’m currently learning Full Stack Web Development at SE-Factory!
+- 🌱 I’m currently learning Full Stack Web Development!
 - 👯 I’m looking to collaborate with other content creators
 - 🔭 2022 Goal: become a full stack web developer
-- ⚡ Fun fact: I always try to know eveything about everything!
+- ⚡ Fun fact: In my spare time? I code!
 <!--
 **Hamze-A/Hamze-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
